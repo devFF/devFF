@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi there 👋</h1>
 <p align="center">
     <b>Welcome to my page!</b><br><br>
