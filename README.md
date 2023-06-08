@@ -20,6 +20,17 @@
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/devff)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/devff)
 
+### OS
+[![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/devff)
+[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/devff)
+
+<details>
+<p align="center">
+  <a href="https://github.com/devff">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devff&theme=transparent" />
+  </a>
+</p>
+</details>
 <!--
 **devFF/devFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
