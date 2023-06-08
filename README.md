@@ -11,7 +11,7 @@
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/devff)
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/devff)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/devff)
-[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/devff)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/devff)
 [![YAML](https://img.shields.io/badge/yaml-black?style=for-the-badge&logo=yaml)](https://github.com/devff)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/devff)
   
