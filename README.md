@@ -9,8 +9,8 @@
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/devff)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/devff)
-[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/devff)
-[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/devff)
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/devff)
+[![CSS3](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/devff)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=postgresql)](https://github.com/devff)
 [![YAML](https://img.shields.io/badge/yaml-black?style=for-the-badge&logo=yaml)](https://github.com/devff)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/devff)
