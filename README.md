@@ -1,4 +1,24 @@
 ### Hi there 👋
+<h1 align="center">Hi there 👋</h1>
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+      I'm Igor.<br>
+      I am currently studying python as a backend developer: web and data science.<br></i>
+</p>
+  
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/devff)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/devff)
+[![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html)](https://github.com/devff)
+[![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css)](https://github.com/devff)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=sql)](https://github.com/devff)
+[![YAML](https://img.shields.io/badge/yaml-black?style=for-the-badge&logo=yaml)](https://github.com/devff)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/devff)
+  
+### Technologies & Frameworks
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/devff)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/devff)
 
 <!--
 **devFF/devFF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
