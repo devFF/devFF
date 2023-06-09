@@ -17,14 +17,14 @@
   
 ### Technologies & Frameworks
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/devff)
+[![Gunicorn](https://img.shields.io/badge/Gunicorn-black?style=for-the-badge&logo=Gunicorn)](https://github.com/devff)
+[![NGINX](https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=NGINX)](https://github.com/devff)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/devff)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/devff)
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/devff)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/devff)
 [![SciPy](https://img.shields.io/badge/SciPy-black?style=for-the-badge&logo=scipy)](https://github.com/devff)
 [![Mfyplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=Matplotlib)](https://github.com/devff)
-[![Gunicorn](https://img.shields.io/badge/Gunicorn-black?style=for-the-badge&logo=Gunicorn)](https://github.com/devff)
-[![NGINX](https://img.shields.io/badge/NGINX-black?style=for-the-badge&logo=NGINX)](https://github.com/devff)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/devff)
